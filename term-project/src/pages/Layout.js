@@ -11,7 +11,7 @@ const Layout = () => {
                         <li><h5><Link to="/" class="nav">Home</Link></h5></li>
                         <li><h5><Link to="/about" class="nav">About</Link></h5></li>
                         <li><h5><Link to="/projects" class="nav">Projects</Link></h5></li>
-                        <li><h5><Link to="/history" class="nav">history</Link></h5></li>
+                        <li><h5><Link to="/history" class="nav">History</Link></h5></li>
                         <li><h5><Link to="/skills" class="nav">Skills</Link></h5></li>
                         <li><h5><Link to="/contact" class="nav">Contact</Link></h5></li>
                     </ul>
