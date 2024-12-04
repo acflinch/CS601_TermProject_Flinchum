@@ -1,3 +1,5 @@
+import { Link } from "react-router-dom";
+
 const Home = () => {
     return (
         <>
@@ -19,6 +21,34 @@ const Home = () => {
                     </div>
                     <img src="./img/1554825026838.jpg" alt="Profile Picture" className="profile"/>
 
+                </main>
+            </div>
+
+            <div className="content-wrapper">
+                <main className="about">
+                    <h3 className="color-about">About Me</h3>
+                    <p className="about-me">Here some text so that we can test the display of this about portion so that
+                        we can
+                        test it throughly. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
+                        tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud
+                        exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in
+                        reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</p>
+
+
+                    <Link to="/about" ><button className="read-more">Read More</button></Link>
+                </main>
+            </div>
+
+            <div className="content-wrapper">
+                <main className="projects">
+                    <h3 className="color-project">Latest Projects</h3>
+
+                    <div className="column">
+                        <a href="#"><img src="./img/placeholder.jpg" alt="Project1" className="project-img"/></a>
+                        <a href="#"><img src="./img/placeholder.jpg" alt="Project2" className="project-img"/></a>
+                        <a href="#"><img src="./img/placeholder.jpg" alt="Project3" className="project-img"/></a>
+                        <a href="#"><img src="./img/placeholder.jpg" alt="Project4" className="project-img"/></a>
+                    </div>
                 </main>
             </div>
         </>
