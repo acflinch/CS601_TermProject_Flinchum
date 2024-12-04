@@ -1,6 +1,25 @@
+import React from "react";
 import { Link } from "react-router-dom";
 
 const Home = () => {
+    const onDownloadClick = () => {
+
+        fetch("../models/Flinchum, Alex - Resume.docx").then((response) => {
+            response.blob().then((blob) => {
+
+                // Creating new object of PDF file
+                const fileURL =
+                    window.URL.createObjectURL(blob);
+
+                // Setting various property values
+                let alink = document.createElement("a");
+                alink.href = fileURL;
+                alink.download = "Flinchum, Alex - Resume.docx";
+                alink.click();
+            });
+        });
+    };
+
     return (
         <>
             <h1>Home</h1>
@@ -16,7 +35,7 @@ const Home = () => {
                         <a href="#"><img src="./img/pngegg.png" alt="Github" className="git-icon"/></a>
                         <a href="#"><img src="./img/Linkedin.pngg" alt="Linkedin" className="linkedin-icon"/></a>
 
-                        <button className="resume-download"><i className="download"></i> Download CV</button>
+                        <button className="resume-download" onClick={onDownloadClick}>Download CV</button>
 
                     </div>
                     <img src="./img/1554825026838.jpg" alt="Profile Picture" className="profile"/>
