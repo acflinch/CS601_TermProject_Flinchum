@@ -1,0 +1,101 @@
+main {
+    padding: 20px;
+}
+
+h3, h2 {
+    margin: 0;
+}
+
+.git-icon {
+    width: 28px;
+}
+
+button {
+    display: block;
+    margin-top: 40px;
+    color: lightgreen;
+    background: none;
+    border: 1px solid lightgreen;
+    border-radius: 4px;
+    font-weight: bold;
+    font-size: 15px;
+    width: auto;
+    height: 35px;
+}
+
+.resume-download:focus {
+    color: #2a2a2a;
+    background: lightgreen;
+}
+
+button:hover {
+    box-shadow: 0 0 5px lightgreen;
+}
+
+.read-more {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.content-wrapper:nth-child(2) {
+    background-color: #2a2a2a;
+}
+
+.content-wrapper:nth-child(4) {
+    background-color: #2a2a2a;
+}
+
+.introduction {
+    display: flex;
+}
+
+.intro-container {
+    padding: 30px;
+    margin: 10px 30px;
+}
+
+.profile {
+    float: right;
+    padding: inherit;
+    margin: auto;
+    width: 300px;
+    display: block;
+}
+
+.color-about {
+    text-align: center;
+}
+
+.about {
+    padding-top: 65px;
+    padding-bottom: 65px;
+}
+
+.projects {
+    text-align: center;
+    padding-top: 65px;
+    padding-bottom: 65px;
+}
+
+.column {
+    grid-row: 1;
+    padding: 0 4px;
+    padding-top: 25px;
+}
+
+.project-img {
+    width: 20%;
+}
+
+.about-me {
+    margin-left: 240px;
+    margin-right: 240px;
+}
+
+main {
+    position: relative;
+}
+
+[class|="color"] {
+    color: lightgreen;
+}

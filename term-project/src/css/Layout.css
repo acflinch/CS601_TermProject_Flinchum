@@ -59,7 +59,7 @@ header, footer, main, .sidebar {
 }
 
 footer {
-    position: absolute;
+    position: relative;
     bottom: 0;
     width: 100%;
     opacity: 50%;

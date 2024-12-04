@@ -1,5 +1,6 @@
 import React from "react";
 import { Link } from "react-router-dom";
+import "../css/Home.css"
 
 const Home = () => {
     const onDownloadClick = () => {
@@ -22,7 +23,6 @@ const Home = () => {
 
     return (
         <>
-            <h1>Home</h1>
             <div className="content-wrapper">
                 <main className="introduction">
                     <div className="intro-container">
@@ -46,12 +46,17 @@ const Home = () => {
             <div className="content-wrapper">
                 <main className="about">
                     <h3 className="color-about">About Me</h3>
-                    <p className="about-me">Here some text so that we can test the display of this about portion so that
-                        we can
-                        test it throughly. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
-                        tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud
-                        exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in
-                        reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</p>
+                    <p className="about-me">
+                        Although I always had a love for my computer science courses in high school, I also had a passion
+                        for creating and drawing sketches of characters that I would envision in my mind. I thought my
+                        career pursuits would be to follow a path to make my sketches come to life through the use of animation.
+                        At that time in my life, I truly believed that my future career path would undoubtedly be to pursue
+                        a career in the animation field. As I continued to navigate through the sea of college applications
+                        during my senior year of high school and all of the many college visits, I found myself becoming
+                        disillusioned by the true realities of the animation field. However, as my desire to pursue animation
+                        dwindled, my ultimate goal always remained steadfast. The goal to create technology that can inspire
+                        and benefit the lives of others remained my lifelong vision.
+                    </p>
 
 
                     <Link to="/about" ><button className="read-more">Read More</button></Link>
