@@ -9,10 +9,6 @@ body {
     color: white;
 }
 
-[class|="color"] {
-    color: lightgreen;
-}
-
 header {
     bottom: 10px;
 }
