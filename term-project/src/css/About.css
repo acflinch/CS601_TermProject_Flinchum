@@ -1,0 +1,44 @@
+.color-education, .color-experience {
+    padding-top: 25px;
+    padding-left: 15px;
+}
+
+.experience-container, .education-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.display-info {
+    padding: 5px 15px;
+    margin-left: 25px;
+    margin-right: 25px;
+    display: inline-block;
+    text-align: center;
+}
+
+.experience-container .display-info {
+    font-size: 15px;
+}
+
+.skills-container, .achievments-container  {
+    padding-top: 5px;
+    padding-bottom: 5px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+
+.skills-container ul, .achievments-container ul {
+    list-style-type: none;
+}
+
+.experience-container li, .skills-container li, .achievments-container li, .education-container li {
+    padding-top: 5px;
+    font-size: 13px;
+}
+
+strong {
+    color: lightgreen;
+}
