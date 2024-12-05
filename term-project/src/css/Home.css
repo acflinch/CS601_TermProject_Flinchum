@@ -1,4 +1,5 @@
 main {
+    position: relative;
     padding: 20px;
 }
 
@@ -6,8 +7,9 @@ h3, h2 {
     margin: 0;
 }
 
-.git-icon {
+.icon {
     width: 28px;
+    padding-right: 10px;
 }
 
 button {
@@ -47,6 +49,7 @@ button:hover {
 
 .introduction {
     display: flex;
+    padding-left: 195px;
 }
 
 .intro-container {
@@ -90,10 +93,6 @@ button:hover {
 .about-me {
     margin-left: 240px;
     margin-right: 240px;
-}
-
-main {
-    position: relative;
 }
 
 [class|="color"] {

@@ -1,6 +1,8 @@
 import React from "react";
 import { Link } from "react-router-dom";
-import "../css/Home.css"
+import "../css/Home.css";
+import git from "../img/git.png";
+import linkedin from "../img/linked.png";
 
 const Home = () => {
     const onDownloadClick = () => {
@@ -32,8 +34,9 @@ const Home = () => {
                         <p>I have experience in both frontend and backend development through my classes and work
                             experience.</p>
 
-                        <a href="#"><img src="./img/pngegg.png" alt="Github" className="git-icon"/></a>
-                        <a href="#"><img src="./img/Linkedin.pngg" alt="Linkedin" className="linkedin-icon"/></a>
+                        <a href="https://github.com/acflinch"><img src={git} alt="Github" className="icon"/></a>
+                        <a href="https://www.linkedin.com/in/alexflinchum/"><img src={linkedin} alt="Linkedin"
+                                                                                 className="icon"/></a>
 
                         <button className="resume-download" onClick={onDownloadClick}>Download CV</button>
 
