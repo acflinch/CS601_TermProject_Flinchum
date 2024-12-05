@@ -140,13 +140,35 @@ const About = () => {
                             2017</p>
                         </li>
                         <li>
-                            <p>Indiana University Founders Scholar – 3-time Recipient (2016, 2017 and 2018)</p><p>March 2018</p>
+                            <p>Indiana University Founders Scholar – 3-time Recipient (2016, 2017 and 2018)</p><p>March
+                            2018</p>
                         </li>
                         <li>
                             <p>National Society of Collegiate Scholars</p><p>June 2016</p>
                         </li>
                         <li>
                             <p>Hutton Honors College – Inductee</p><p>February 2016</p>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+
+            <div className="content-wrapper">
+                <div className="skills-container">
+                    <h2>TECHNICAL SKILLS</h2>
+
+                    <ul>
+                        <li>
+                            <p><strong>Languages:</strong> Java, Python 3, Racket, C#</p>
+                        </li>
+                        <li>
+                            <p><strong>Web Development:</strong> JavaScript, HTML, CSS, PHP, Angular, React</p>
+                        </li>
+                        <li>
+                            <p><strong>Databases:</strong> SQL, Microsoft Access, Postgres</p>
+                        </li>
+                        <li>
+                            <p><strong>Other:</strong> WordPress, GitHub, TFS</p>
                         </li>
                     </ul>
                 </div>
