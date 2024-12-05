@@ -78,13 +78,77 @@ const About = () => {
                             City of Bloomington
                         </li>
                         <li>
-                            Delivered a functional website application to Monroe County and the Bloomington Symphony Orchestra
+                            Delivered a functional website application to Monroe County and the Bloomington Symphony
+                            Orchestra
                         </li>
                         <li>
-                            Derived web application solutions using the Laravel framework, with PHP, HTML, CSS and a MapBox plugin
+                            Derived web application solutions using the Laravel framework, with PHP, HTML, CSS and a
+                            MapBox plugin
                         </li>
                     </ul>
 
+                    <h3>Rolls-Royce</h3>
+                    <h3>Indianapolis, IN</h3>
+                    <p>Information Technology Intern</p>
+                    <p>June 2018 – August 2018</p>
+
+                    <ul>
+                        <li>
+                            Managed a project that addressed the top employee complaints by creating interactive floor
+                            plans allowing team members to easily locate printers and download print drivers
+                        </li>
+                        <li>
+                            Created user guide documents for employees to use software, such as Outlook and Lync
+                        </li>
+                    </ul>
+                </div>
+            </div>
+
+            <div className="content-wrapper">
+                <div className="education-container">
+                    <h2>EDUCATION</h2>
+                    <h3>Indiana University</h3>
+                    <h3>Bloomington, IN</h3>
+                    <p>Bachelor of Science in Informatics, minor in Computer Science (Cognate in Game Design)</p>
+                    <p>May 2019</p>
+
+                    <ul>
+                        <li>
+                            <p><strong>GPA:</strong> 3.79 / 4.00; Graduated with Distinction</p>
+                        </li>
+                        <li>
+                            <p><strong>Relevant Coursework:</strong> Application Development, Data Structures,
+                                Discrete Structures for CSCI, Intro to Computer Science, Introduction to Programming I,
+                                Information Representation, Math Foundations of Informatics, Calculus I (Austin
+                                Community
+                                College, May 2022)</p>
+                        </li>
+                        <li>
+                            <p><strong>Activities:</strong> Serve IT</p>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+
+            <div className="content-wrapper">
+                <div className="achievments-container">
+                    <h2>AWARDS & ACHIEVEMENTS</h2>
+
+                    <ul>
+                        <li>
+                            <p>Indiana University School of Informatics and Computing – Dean’s List Honors</p><p>June
+                            2017</p>
+                        </li>
+                        <li>
+                            <p>Indiana University Founders Scholar – 3-time Recipient (2016, 2017 and 2018)</p><p>March 2018</p>
+                        </li>
+                        <li>
+                            <p>National Society of Collegiate Scholars</p><p>June 2016</p>
+                        </li>
+                        <li>
+                            <p>Hutton Honors College – Inductee</p><p>February 2016</p>
+                        </li>
+                    </ul>
                 </div>
             </div>
         </>
