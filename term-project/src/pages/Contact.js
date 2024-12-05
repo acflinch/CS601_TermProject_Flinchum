@@ -23,7 +23,7 @@ const Contact = () => {
                             <label>Message</label>
                             <textarea className="field-mess" placeholder="Enter Your Message" required></textarea>
                         </div>
-                        <button type="submit" className="submit-message" onClick={onDownloadClick}>Submit Message</button>
+                        <button type="submit" className="submit-message">Submit Message</button>
                     </form>
                 </section>
             </div>
