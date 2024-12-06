@@ -1,0 +1,258 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="cef1076f-a268-4308-9fdb-4283cebd067f" name="Changes" comment="updated pictures" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="skills_page" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;acflinch&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/acflinch/CS601_TermProject_Flinchum.git&quot;,
+    &quot;accountId&quot;: &quot;8bbb31c1-2979-4e29-868f-7ba4f4a2e6f5&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="2pjKMCDg3rbxCdUWaHn5LGKPv4X" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/allfl/Documents/CS601_TermProject_Flinchum&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;ts.external.directory.path&quot;: &quot;C:\\Program Files\\JetBrains\\IntelliJ IDEA 2024.2.4\\plugins\\javascript-plugin\\jsLanguageServicesImpl\\external&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\allfl\Documents\CS601_TermProject_Flinchum\term-project\src\img" />
+      <recent name="C:\Users\allfl\Documents\CS601_TermProject_Flinchum\term-project\src\models" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="CS601_TermProject_Flinchum" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="CS601_TermProject_Flinchum" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-28b599e66164-intellij.indexing.shared.core-IU-242.24807.4" />
+        <option value="bundled-js-predefined-d6986cc7102b-5c90d61e3bab-JavaScript-IU-242.24807.4" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cef1076f-a268-4308-9fdb-4283cebd067f" name="Changes" comment="" />
+      <created>1733273995667</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1733273995667</updated>
+      <workItem from="1733273997030" duration="34319000" />
+      <workItem from="1733517281532" duration="92000" />
+      <workItem from="1733517467106" duration="110000" />
+      <workItem from="1733517847641" duration="997000" />
+    </task>
+    <task id="LOCAL-00001" summary="initial set up">
+      <option name="closed" value="true" />
+      <created>1733274352563</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1733274352563</updated>
+    </task>
+    <task id="LOCAL-00002" summary="inital pages have been set up along with css for header/nav and footer">
+      <option name="closed" value="true" />
+      <created>1733279964097</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1733279964097</updated>
+    </task>
+    <task id="LOCAL-00003" summary="update">
+      <option name="closed" value="true" />
+      <created>1733283522840</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1733283522840</updated>
+    </task>
+    <task id="LOCAL-00004" summary="initial HTML setup">
+      <option name="closed" value="true" />
+      <created>1733283744535</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1733283744535</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Home Page/Resume download button working">
+      <option name="closed" value="true" />
+      <created>1733285670542</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1733285670542</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Home Page layout, info, and style updated">
+      <option name="closed" value="true" />
+      <created>1733289023388</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1733289023388</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Started working on about page">
+      <option name="closed" value="true" />
+      <created>1733292009096</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1733292009096</updated>
+    </task>
+    <task id="LOCAL-00008" summary="added info for education and achievments">
+      <option name="closed" value="true" />
+      <created>1733360009985</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1733360009985</updated>
+    </task>
+    <task id="LOCAL-00009" summary="finished adding about me info">
+      <option name="closed" value="true" />
+      <created>1733360330491</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1733360330491</updated>
+    </task>
+    <task id="LOCAL-00010" summary="finished updated about css">
+      <option name="closed" value="true" />
+      <created>1733371757950</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1733371757950</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Contact form created">
+      <option name="closed" value="true" />
+      <created>1733376318100</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1733376318100</updated>
+    </task>
+    <task id="LOCAL-00012" summary="fixed error">
+      <option name="closed" value="true" />
+      <created>1733376336310</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1733376336310</updated>
+    </task>
+    <task id="LOCAL-00013" summary="contact page has input fields and email my email">
+      <option name="closed" value="true" />
+      <created>1733380208134</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1733380208134</updated>
+    </task>
+    <task id="LOCAL-00014" summary="update">
+      <option name="closed" value="true" />
+      <created>1733506228978</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1733506228978</updated>
+    </task>
+    <task id="LOCAL-00015" summary="added a skills timeline and made css for it">
+      <option name="closed" value="true" />
+      <created>1733516186550</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1733516186550</updated>
+    </task>
+    <task id="LOCAL-00016" summary="updated pictures">
+      <option name="closed" value="true" />
+      <created>1733518230495</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1733518230495</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="initial set up" />
+    <MESSAGE value="inital pages have been set up along with css for header/nav and footer" />
+    <MESSAGE value="initial HTML setup" />
+    <MESSAGE value="Home Page/Resume download button working" />
+    <MESSAGE value="Home Page layout, info, and style updated" />
+    <MESSAGE value="Started working on about page" />
+    <MESSAGE value="added info for education and achievments" />
+    <MESSAGE value="finished adding about me info" />
+    <MESSAGE value="finished updated about css" />
+    <MESSAGE value="Contact form created" />
+    <MESSAGE value="fixed error" />
+    <MESSAGE value="contact page has input fields and email my email" />
+    <MESSAGE value="update" />
+    <MESSAGE value="added a skills timeline and made css for it" />
+    <MESSAGE value="updated pictures" />
+    <option name="LAST_COMMIT_MESSAGE" value="updated pictures" />
+  </component>
+</project>
