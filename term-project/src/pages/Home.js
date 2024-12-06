@@ -3,6 +3,8 @@ import { Link } from "react-router-dom";
 import "../css/Home.css";
 import git from "../img/git.png";
 import linkedin from "../img/linked.png";
+import profile from "../img/1554825026838.jpg";
+import placeholder from "../img/placeholder.jpg";
 
 const Home = () => {
     const onDownloadClick = () => {
@@ -41,7 +43,7 @@ const Home = () => {
                         <button className="resume-download" onClick={onDownloadClick}>Download CV</button>
 
                     </div>
-                    <img src="./img/1554825026838.jpg" alt="Profile Picture" className="profile"/>
+                    <img src={profile} alt="Profile" className="profile"/>
 
                 </main>
             </div>
@@ -71,10 +73,10 @@ const Home = () => {
                     <h3 className="color-project">Latest Projects</h3>
 
                     <div className="column">
-                        <a href="#"><img src="./img/placeholder.jpg" alt="Project1" className="project-img"/></a>
-                        <a href="#"><img src="./img/placeholder.jpg" alt="Project2" className="project-img"/></a>
-                        <a href="#"><img src="./img/placeholder.jpg" alt="Project3" className="project-img"/></a>
-                        <a href="#"><img src="./img/placeholder.jpg" alt="Project4" className="project-img"/></a>
+                        <a href="#"><img src={placeholder} alt="Project1" className="project-img"/></a>
+                        <a href="#"><img src={placeholder} alt="Project2" className="project-img"/></a>
+                        <a href="#"><img src={placeholder} alt="Project3" className="project-img"/></a>
+                        <a href="#"><img src={placeholder} alt="Project4" className="project-img"/></a>
                     </div>
                 </main>
             </div>

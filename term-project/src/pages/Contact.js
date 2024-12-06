@@ -1,5 +1,4 @@
 import React from "react";
-import { Link } from "react-router-dom";
 import "../css/Contact.css";
 import git from "../img/git.png";
 import linkedin from "../img/linked.png";
@@ -30,9 +29,18 @@ const Contact = () => {
     return (
         <>
             <div className="content-wrapper">
+                <div className="social-container">
+                    <h2 className="color-social">Where To Find Me</h2>
+
+                    <a href="https://github.com/acflinch"><img src={git} alt="Github" className="social"/></a>
+                    <a href="https://www.linkedin.com/in/alexflinchum/"><img src={linkedin} alt="Linkedin" className="social"/></a>
+                </div>
+            </div>
+
+            <div className="content-wrapper">
                 <section className="contact">
                     <form onSubmit={onSubmit}>
-                        <h2>Contact Form</h2>
+                        <h2 className="color-form">Contact Form</h2>
                         <div className="input">
                             <label>Full Name</label>
                             <input type="text" className="field" placeholder="Enter Your Name" name="name" required/>
@@ -43,7 +51,8 @@ const Contact = () => {
                         </div>
                         <div className="input">
                             <label>Message</label>
-                            <textarea className="field-mess" placeholder="Enter Your Message" name="message" required></textarea>
+                            <textarea className="field-mess" placeholder="Enter Your Message" name="message"
+                                      required></textarea>
                         </div>
                         <button type="submit" className="submit-message">Submit Message</button>
                     </form>
