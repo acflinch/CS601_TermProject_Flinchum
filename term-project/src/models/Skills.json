@@ -4,7 +4,64 @@
     "skills": [
       {
         "language": "Java",
-        "desc": "My first programming language was Java which i start learning in a high school software class"
+        "desc": "My first programming language was Java which I started learning in a high school software class."
+      }
+    ]
+  },
+  {
+    "year": 2015,
+    "skills": [
+      {
+        "language": "Python",
+        "desc": "My introduction into the Computer Science field was with Python in some of my first courses in college."
+      },
+      {
+        "language": "SQL",
+        "desc": "My college major was Informatics, which focused on data science and introduced me to SQL."
+      }
+    ]
+  },
+  {
+    "year": 2016,
+    "skills": [
+      {
+        "language": "Microsoft Access",
+        "desc": "This is the year I started my internship with the nonprofit called Serve IT, I was asked to work with tools such as Wordpress, GitHub, and Microsoft Access."
+      },
+      {
+        "language": "PHP",
+        "desc": "This summer I had internship which entailed updating the PHP of a clients website."
+      }
+    ]
+  },
+  {
+    "year": 2017,
+    "skills": [
+      {
+        "language": "Racket",
+        "desc": "As I progressed through my undergrad courses, I was introduced to more complex languages such as Racket."
+      },
+      {
+        "language": "C#",
+        "desc": "I started my cognate in undergrad which focused on Game Design, I used C# to create games in Unity."
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "skills": [
+      {
+        "language": "HTML/CSS/JavaScript",
+        "desc": "I took a web development course in undergrad which focused on JavaScript, HTML, and CSS."
+      }
+    ]
+  },
+  {
+    "year": 2019,
+    "skills": [
+      {
+        "language": "Angular",
+        "desc": "After graduating undergrad, I started work at General Motors where I was introduced and worked on Angular web page development."
       }
     ]
   }
