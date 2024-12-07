@@ -10,7 +10,7 @@ const About = () => {
                     <div className="display-info">
                         <h3 className="color-general">General Motors</h3>
                         <h3>Austin, TX</h3>
-                        <p>July 2019 – Present</p>
+                        <i>July 2019 – Present</i>
                     </div>
                     <div>
                         <p>Software Developer – Manufacturing Development / Tester – Surada Test & Development</p>
@@ -77,7 +77,7 @@ const About = () => {
                     <div className="display-info">
                         <h3 className="color-nonprofit">Nonprofit Clinic Serve IT</h3>
                         <h3>Bloomington, IN</h3>
-                        <p>August 2018 – May 2019</p>
+                        <i>August 2018 – May 2019</i>
                     </div>
                     <div>
                         <p>Team Lead</p>
@@ -102,7 +102,7 @@ const About = () => {
                     <div className="display-info">
                         <h3 className="color-rolls">Rolls-Royce</h3>
                         <h3>Indianapolis, IN</h3>
-                        <p>June 2018 – August 2018</p>
+                        <i>June 2018 – August 2018</i>
                     </div>
                     <div>
                         <p>Information Technology Intern</p>
@@ -128,7 +128,7 @@ const About = () => {
                         <h3>Indiana University</h3>
                         <h3>Bloomington, IN</h3>
                         <p>Bachelor of Science in Informatics, minor in Computer Science (Cognate in Game Design)</p>
-                        <p>May 2019</p>
+                        <i>May 2019</i>
                     </div>
 
                     <ul>
