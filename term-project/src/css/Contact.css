@@ -33,7 +33,6 @@ form .input {
     padding: 15px;
     font-size: 16px;
     margin-top: 8px;
-    margin-left: -16px;
     color: black;
 }
 
@@ -47,7 +46,6 @@ form .input {
     padding: 15px;
     font-size: 16px;
     margin-top: 8px;
-    margin-left: -16px;
     resize: none;
     color: black;
 }
@@ -72,4 +70,11 @@ form .input {
     width: 58px;
     padding-top: 20px;
     padding-right: 20px;
+}
+
+@media (max-width: 900px){
+    .contact {
+        width: 100%;
+    }
+
 }

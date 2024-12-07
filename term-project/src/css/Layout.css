@@ -64,3 +64,44 @@ footer {
     opacity: 50%;
     background: darkgray;
 }
+
+@media (max-width: 768px){
+    .introduction .profile {
+        display: none;
+    }
+
+    .introduction {
+        display: block;
+        text-align: center;
+    }
+
+    .git-icon, .linkedin-icon{
+        text-align: center;
+    }
+
+    .resume-download {
+        margin-left: auto;
+        margin-right: auto;
+    }
+}
+
+@media (max-width: 768px){
+    .nav-bar {
+        list-style-type: none;
+        display: flex;
+        flex-direction: row;
+        float: right;
+        margin: -13px;
+        overflow: hidden;
+        font-size: 14px;
+    }
+
+    li .nav {
+        display: block;
+        color: white;
+        text-align: center;
+        padding-left: 2px;
+        padding-right: 9px;
+        text-decoration: none;
+    }
+}
