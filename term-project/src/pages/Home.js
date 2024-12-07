@@ -6,10 +6,10 @@ import "../css/Home.css";
 import git from "../img/git.png";
 import linkedin from "../img/linked.png";
 import profile from "../img/1554825026838.jpg";
-import placeholder from "../img/placeholder.jpg";
 import project1 from "../img/project1.png";
 import project2 from "../img/project2.png";
 import project3 from "../img/project3.png";
+import project4 from "../img/project4.png";
 
 const Home = () => {
     const onDownloadClick = () => {
@@ -81,7 +81,7 @@ const Home = () => {
                         <img src={project1} alt="Project1" className="project-img"/>
                         <img src={project2} alt="Project2" className="project-img"/>
                         <img src={project3} alt="Project3" className="project-img"/>
-                        <img src={placeholder} alt="Project4" className="project-img"/>
+                        <img src={project4} alt="Project4" className="project-img"/>
                     </div>
                 </main>
             </div>
