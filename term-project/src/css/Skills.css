@@ -27,13 +27,11 @@
     margin-left: -3px;
 }
 
-
 .container {
     padding: 10px 40px;
     position: relative;
     width: 50%;
 }
-
 
 .container::after {
     content: '';
@@ -61,4 +59,28 @@
     background-color: gray;
     position: relative;
     border-radius: 6px;
+}
+
+@media (max-width: 900px){
+    .container:nth-child(1), .container:nth-child(3), .container:nth-child(5) {
+        left: 50%;
+    }
+
+    .container:nth-child(1)::after, .container:nth-child(3)::after, .container:nth-child(5)::after {
+        left: -16px;
+    }
+
+    .timeline {
+        max-width: 300px;
+    }
+
+    .timeline::after {
+        left: 2%;
+    }
+
+    .container {
+        margin-left: -144px;
+        width: 350px;
+    }
+
 }
