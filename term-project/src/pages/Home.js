@@ -78,10 +78,10 @@ const Home = () => {
                     <h3 className="color-project">Latest Projects</h3>
 
                     <div className="column">
-                        <a href="#"><img src={project1} alt="Project1" className="project-img"/></a>
-                        <a href="#"><img src={project2} alt="Project2" className="project-img"/></a>
-                        <a href="#"><img src={project3} alt="Project3" className="project-img"/></a>
-                        <a href="#"><img src={placeholder} alt="Project4" className="project-img"/></a>
+                        <img src={project1} alt="Project1" className="project-img"/>
+                        <img src={project2} alt="Project2" className="project-img"/>
+                        <img src={project3} alt="Project3" className="project-img"/>
+                        <img src={placeholder} alt="Project4" className="project-img"/>
                     </div>
                 </main>
             </div>
