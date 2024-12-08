@@ -69,7 +69,7 @@ const Home = () => {
                     </p>
 
 
-                    <Link to="/about" ><button className="read-more">Read More</button></Link>
+                    <Link to="/CS601_TermProject_Flinchum/about" ><button className="read-more">Read More</button></Link>
                 </main>
             </div>
 

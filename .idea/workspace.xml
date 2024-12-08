@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="659a5841-70d0-4388-9f27-8f2f5478e6d3" name="Changes" comment="update for github pages links">
+    <list default="true" id="659a5841-70d0-4388-9f27-8f2f5478e6d3" name="Changes" comment="update readme">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -77,7 +76,7 @@
       <updated>1733520096767</updated>
       <workItem from="1733520098123" duration="7440000" />
       <workItem from="1733592373670" duration="8108000" />
-      <workItem from="1733621558736" duration="4508000" />
+      <workItem from="1733621558736" duration="5325000" />
     </task>
     <task id="LOCAL-00001" summary="update">
       <option name="closed" value="true" />
@@ -223,7 +222,23 @@
       <option name="project" value="LOCAL" />
       <updated>1733638066872</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="update readme">
+      <option name="closed" value="true" />
+      <created>1733638601575</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1733638601575</updated>
+    </task>
+    <task id="LOCAL-00020" summary="update readme">
+      <option name="closed" value="true" />
+      <created>1733638612883</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1733638612883</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -244,6 +259,7 @@
     <MESSAGE value="update" />
     <MESSAGE value="update for github pages" />
     <MESSAGE value="update for github pages links" />
-    <option name="LAST_COMMIT_MESSAGE" value="update for github pages links" />
+    <MESSAGE value="update readme" />
+    <option name="LAST_COMMIT_MESSAGE" value="update readme" />
   </component>
 </project>
