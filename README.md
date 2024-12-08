@@ -22,7 +22,7 @@ Download CS601_TermProject_Flinchum with the following files needed to run the a
 Run the assignment in the terminal by navigating to the hw5 folder and running
 npm start in the terminal.
 
-Alternatively, you can run this assignment by going to the provided hosted link.
+Alternatively, you can run this assignment by going to the provided hosted link https://acflinch.github.io/CS601_TermProject_Flinchum.
 
 ---
 
