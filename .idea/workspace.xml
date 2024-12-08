@@ -4,8 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="659a5841-70d0-4388-9f27-8f2f5478e6d3" name="Changes" comment="reorg">
-      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+    <list default="true" id="659a5841-70d0-4388-9f27-8f2f5478e6d3" name="Changes" comment="update">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -76,7 +78,7 @@
       <updated>1733520096767</updated>
       <workItem from="1733520098123" duration="7440000" />
       <workItem from="1733592373670" duration="8108000" />
-      <workItem from="1733621558736" duration="449000" />
+      <workItem from="1733621558736" duration="1704000" />
     </task>
     <task id="LOCAL-00001" summary="update">
       <option name="closed" value="true" />
@@ -182,7 +184,15 @@
       <option name="project" value="LOCAL" />
       <updated>1733621953558</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="update">
+      <option name="closed" value="true" />
+      <created>1733622048288</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1733622048288</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -199,8 +209,8 @@
     <MESSAGE value="contact display size adjusted" />
     <MESSAGE value="finished display size for skills" />
     <MESSAGE value="readme update" />
-    <MESSAGE value="update" />
     <MESSAGE value="reorg" />
-    <option name="LAST_COMMIT_MESSAGE" value="reorg" />
+    <MESSAGE value="update" />
+    <option name="LAST_COMMIT_MESSAGE" value="update" />
   </component>
 </project>
