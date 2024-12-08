@@ -1,4 +1,4 @@
-# Term Project: Prtfolio
+# Term Project: Portfolio
 
 ### About
 
