@@ -24,6 +24,8 @@ npm start in the terminal.
 
 Alternatively, you can run this assignment by going to the provided hosted link https://acflinch.github.io/CS601_TermProject_Flinchum.
 
+The code for this project can be found on this site https://github.com/acflinch/CS601_TermProject_Flinchum
+
 ---
 
 ### Problems and Learning
