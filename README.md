@@ -31,7 +31,7 @@ The code for this project can be found on this site https://github.com/acflinch/
 ### Problems and Learning
 
 > While working through this assignment, I had to look through past assignments to create many of teh functions.
-For starts, I used teh 3rd assignment as a base for the overall look and style of the project and i used some examples
+For starts, I used teh 3rd assignment as a base for the overall look and style of the project and I used some examples
 in the office hours for teh 5th assignment in order to get the multiple pages working in react.
 
 > I was unable to get the footer to stay at the bottom of the page for contacts when in mobile display size.
